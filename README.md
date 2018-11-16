@@ -2,7 +2,7 @@
 If you don't want to read the whole thing, just try to do those things.
 
 - Understand as much as you can and memorise as little as you can.
-- Invest your free time in learning usefull skills.
+- Invest your free time in learning new things.
 
 # Helpful Resources
 
