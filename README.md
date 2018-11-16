@@ -10,7 +10,7 @@ If you don't want to read the whole thing, just try to do those things.
 - Google is your best friend.
 - Youtube is your second best friend.
 - Subscribe to newsletters, follow tech blogs, join facebook groups related to the topics your interested in.
-- Search github for 'awesome <topic>', usually people create large lists of resources related to certian topics e.g. ( [A list of awesome lists](https://github.com/sindresorhus/awesome), [awesome-python](https://github.com/vinta/awesome-python#readme) , [awesome-javascript](https://github.com/sorrycc/awesome-javascript) )
+- Search github for 'awesome \<topic\>', usually people create large lists of resources related to certian topics e.g. ( [A list of awesome lists](https://github.com/sindresorhus/awesome), [awesome-python](https://github.com/vinta/awesome-python#readme) , [awesome-javascript](https://github.com/sorrycc/awesome-javascript) )
 
 ## Github account
 - Create a personall account on [github](https://github.com/)
