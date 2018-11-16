@@ -12,9 +12,15 @@ If you don't want to read the whole thing, just try to do those things.
 - Subscribe to newsletters, follow tech blogs, join facebook groups related to the topics your interested in.
 - Search github for 'awesome \<topic\>', usually people create large lists of resources related to certian topics e.g. ( [A list of awesome lists](https://github.com/sindresorhus/awesome), [awesome-python](https://github.com/vinta/awesome-python#readme) , [awesome-javascript](https://github.com/sorrycc/awesome-javascript) )
 
+## Make use  of your .edu email
+- Did you know you can have a .edu email from aast? [get yours from here](http://cndc.aast.edu/students/createmail)
+- A lot of websites offer tons of free stuff to students, all you need is your your .edu email.
+
 ## Github account
 - Create a personal account on [github](https://github.com/)
+- Get free stuff (e.g. domain name for your presonal website) from [Github students pack](https://education.github.com/pack) using your [.edu email](http://cndc.aast.edu/students/createmail)
 - [Learn about git and how to upload your projects on github](https://www.codecademy.com/learn/learn-git)
+
 
 ## Courses
 - [MIT Open course ware](https://ocw.mit.edu/index.htm) - MIT publishes a lot of it's courses online for free (and not just the engineering courses)
